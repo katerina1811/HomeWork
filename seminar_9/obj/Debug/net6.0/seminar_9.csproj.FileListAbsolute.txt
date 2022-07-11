@@ -1,0 +1,15 @@
+C:\Users\kater\OneDrive\Рабочий стол\programms\seminar_9\bin\Debug\net6.0\seminar_9.exe
+C:\Users\kater\OneDrive\Рабочий стол\programms\seminar_9\bin\Debug\net6.0\seminar_9.deps.json
+C:\Users\kater\OneDrive\Рабочий стол\programms\seminar_9\bin\Debug\net6.0\seminar_9.runtimeconfig.json
+C:\Users\kater\OneDrive\Рабочий стол\programms\seminar_9\bin\Debug\net6.0\seminar_9.dll
+C:\Users\kater\OneDrive\Рабочий стол\programms\seminar_9\bin\Debug\net6.0\seminar_9.pdb
+C:\Users\kater\OneDrive\Рабочий стол\programms\seminar_9\obj\Debug\net6.0\seminar_9.csproj.AssemblyReference.cache
+C:\Users\kater\OneDrive\Рабочий стол\programms\seminar_9\obj\Debug\net6.0\seminar_9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kater\OneDrive\Рабочий стол\programms\seminar_9\obj\Debug\net6.0\seminar_9.AssemblyInfoInputs.cache
+C:\Users\kater\OneDrive\Рабочий стол\programms\seminar_9\obj\Debug\net6.0\seminar_9.AssemblyInfo.cs
+C:\Users\kater\OneDrive\Рабочий стол\programms\seminar_9\obj\Debug\net6.0\seminar_9.csproj.CoreCompileInputs.cache
+C:\Users\kater\OneDrive\Рабочий стол\programms\seminar_9\obj\Debug\net6.0\seminar_9.dll
+C:\Users\kater\OneDrive\Рабочий стол\programms\seminar_9\obj\Debug\net6.0\refint\seminar_9.dll
+C:\Users\kater\OneDrive\Рабочий стол\programms\seminar_9\obj\Debug\net6.0\seminar_9.pdb
+C:\Users\kater\OneDrive\Рабочий стол\programms\seminar_9\obj\Debug\net6.0\seminar_9.genruntimeconfig.cache
+C:\Users\kater\OneDrive\Рабочий стол\programms\seminar_9\obj\Debug\net6.0\ref\seminar_9.dll
